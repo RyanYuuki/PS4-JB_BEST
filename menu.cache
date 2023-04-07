@@ -17,6 +17,7 @@ files\pl_DumperGU.bin
 files\pl_DumperM.bin
 files\pl_DumperU.bin
 files\pl_FTP.bin
+files\pl_GoldHENv2.4b5.bin
 files\pl_GoldHENv2.0b.bin
 files\pl_GoldHENv2.0b2.bin
 files\pl_GoldHENv2.1.1.bin
@@ -66,6 +67,12 @@ files\pl_WebRTE.bin
 files\img\ftp.svg
 files\img\hen.svg
 files\img\linux.svg
+files\pl_psxita_LinuxLoader2gb.bin
+files\pl_psxita_LinuxLoader3gb.bin
+files\pl_psxita_LinuxLoader4gb.bin
+files\pl_psxita_LinuxLoader5gb.bin
+files\pl_psxita_LinuxLoader.bin
+
 
 NETWORK:
 *
